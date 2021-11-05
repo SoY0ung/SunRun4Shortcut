@@ -24,6 +24,10 @@ See Comments in script for more information.
 
 更多解释可以参见脚本内的注释。
 
+Add the script to *Automatic* will give you a better experience.
+
+把快捷指令加入自动化可以获得更好的体验。
+
 ## Required/需求
 
 - IMEI Code
@@ -65,7 +69,7 @@ After setting *HTTPS Sniffing* and trust certificate in Settings, Click *Sniff N
 
 The last step is to copy the value of IMEICode(without quotation mark)
 
-然后就把IMEICode的值复制下来就好了(不要复制引号)
+然后把IMEICode的值复制下来就好了(不要复制引号)
 
 ## Download Link / 下载链接
 
