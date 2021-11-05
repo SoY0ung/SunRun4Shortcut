@@ -57,7 +57,7 @@ Capture the package when you login. The package is like:
   "Success": true,
   "Data": {
     "Token": "0d3bf9578beb4*******a9384272a488",
-    "UserId": 61***9,
+    "UserId": 619***,
     "IMEICode": "03df3a1af37848******7c70a085d55d" # <-IMEICode
   }
 }
@@ -66,15 +66,34 @@ Capture the package when you login. The package is like:
 ## Download Link / 下载链接
 
 - SunRun / 阳光长跑
+
+  - [链接](https://www.icloud.com/shortcuts/258dd9c0548f4681b843402efefeb618)
   - 标准版本
+
 - SunRun(direct) / 阳光长跑(直达)
+
+  - [链接](https://www.icloud.com/shortcuts/df0c27ae9fb64bdf9e22c96a6a753975)
   - 不会弹出确认框
+
 - SunRun(Clipboard [direct]) / 阳光长跑(剪切板[直达])
+
+  - [剪切板-链接](https://www.icloud.com/shortcuts/c3a31019095348c3824c127720d77e07)
+
+    [剪切板直达-链接](https://www.icloud.com/shortcuts/09d39c1462a24c2d80455819c1d9ab79)
+
   - 直接从剪切板中读取IMEI Code，如果剪切板为空则要求输入
+
   - 不会弹出确认框(直达)
+
 - SunRun(in batches) / 阳光长跑(批量)  **Advanced / 高级**
+
+  - [链接](https://www.icloud.com/shortcuts/fe16b6791586444dbc3abb8cf230fbd4)
+  - 运行批量需要先导入*阳光长跑(函数)*
   - 批量操作，见脚本内的注释
+
 - SunRun(func) / 阳光长跑(函数)           **Advanced / 高级**
+
+  - [链接](https://www.icloud.com/shortcuts/83050a851be744458b2be12c8b41f315)
   - **不能单独运行！**
   - 输入：单个IMEI Code
   - 输出：无
