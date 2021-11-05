@@ -4,6 +4,8 @@ Sunny Run for Apple Shortcut App
 
 iOS/iPad OS阳光长跑快捷指令
 
+喜欢的话麻烦点一下上方的Star呗～
+
 ## 说明
 
 **本脚本仅供学习交流使用，请勿过分依赖。开发者对使用或不使用本脚本造成的问题不负任何责任，不对脚本执行效果做出任何担保，原则上不提供任何形式的技术支持。**
@@ -75,19 +77,19 @@ The last step is to copy the value of IMEICode(without quotation mark)
 
 - SunRun / 阳光长跑
 
-  - [链接](https://www.icloud.com/shortcuts/258dd9c0548f4681b843402efefeb618)
+  - [链接](https://www.icloud.com/shortcuts/258dd9c0548f4681b843402efefeb618) (阳光长跑)
   - 标准版本
 
 - SunRun(direct) / 阳光长跑(直达)
 
-  - [链接](https://www.icloud.com/shortcuts/9b004b1a437d42f5adf1d55e220b324f)
+  - [链接](https://www.icloud.com/shortcuts/9b004b1a437d42f5adf1d55e220b324f) (阳光长跑 Max)
   - 不会弹出确认框
 
 - SunRun(Clipboard [direct]) / 阳光长跑(剪切板[直达])
 
-  - [剪切板-链接](https://www.icloud.com/shortcuts/17923747bf1849b293f9757fcd7f5cc9)
+  - [剪切板-链接](https://www.icloud.com/shortcuts/17923747bf1849b293f9757fcd7f5cc9) (阳光长跑 Pro)
 
-    [剪切板直达-链接](https://www.icloud.com/shortcuts/43609554703a41ddadee2e24e09f929b)
+    [剪切板直达-链接](https://www.icloud.com/shortcuts/43609554703a41ddadee2e24e09f929b) (阳光长跑 Pro Max)
 
   - 直接从剪切板中读取IMEI Code，如果剪切板为空则要求输入
 
@@ -95,13 +97,13 @@ The last step is to copy the value of IMEICode(without quotation mark)
 
 - SunRun(in batches) / 阳光长跑(批量)  **Advanced / 高级**
 
-  - [链接](https://www.icloud.com/shortcuts/e5ab7d01009044f0989ee42cf8c777cb)
+  - [链接](https://www.icloud.com/shortcuts/e5ab7d01009044f0989ee42cf8c777cb) (阳光长跑 Plus)
   - 运行批量需要先导入*阳光长跑(函数)*
   - 批量操作，见脚本内的注释
 
 - SunRun(func) / 阳光长跑(函数)           **Advanced / 高级**
 
-  - [链接](https://www.icloud.com/shortcuts/c732a08ac50b4475b87f8681fbe4d267)
+  - [链接](https://www.icloud.com/shortcuts/c732a08ac50b4475b87f8681fbe4d267) (阳光长跑 Mini)
   - **不能单独运行！**
   - 输入：单个IMEI Code
   - 输出：无
