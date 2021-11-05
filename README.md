@@ -57,7 +57,7 @@ Capture the package when you login. The package is like:
   "Success": true,
   "Data": {
     "Token": "0d3bf9578beb4*******a9384272a488",
-    "UserId": 619***,
+    "UserId": 61***9,
     "IMEICode": "03df3a1af37848******7c70a085d55d" # <-IMEICode
   }
 }
@@ -72,9 +72,9 @@ Capture the package when you login. The package is like:
 - SunRun(Clipboard [direct]) / 阳光长跑(剪切板[直达])
   - 直接从剪切板中读取IMEI Code，如果剪切板为空则要求输入
   - 不会弹出确认框(直达)
-- SunRun(in batches) / 阳光长跑(批量)  ==Advanced / 高级==
+- SunRun(in batches) / 阳光长跑(批量)  **Advanced / 高级**
   - 批量操作，见脚本内的注释
-- SunRun(func) / 阳光长跑(函数)           ==Advanced / 高级==
+- SunRun(func) / 阳光长跑(函数)           **Advanced / 高级**
   - **不能单独运行！**
   - 输入：单个IMEI Code
   - 输出：无
