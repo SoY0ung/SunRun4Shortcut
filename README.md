@@ -48,9 +48,9 @@ Download [Stream](https://apps.apple.com/cn/app/stream/id1312141691) from App St
 
 Tutorial/教程 : [抓包实践](https://www.jianshu.com/p/a34585836b3a)
 
-Capture the package when you login. The package is like:
+After setting *HTTPS Sniffing* and trust certificate in Settings, Click *Sniff Now* then Open *阳光长跑* App, wait utill the app login, back to *Stream*, *Stop Sniffing* and view by host `client4.aipao.me` and respose like below in *Sniff History* 
 
-抓登陆包即可，一般长这样：
+设置好HTTPS抓包的证书并去设置里信任后，点击“开始抓包”，打开阳光长跑App，登录成功后返回Stream，“停止抓包”，然后在“抓包历史”里查看域名为`client4.aipao.me`,响应中为以下内容的包：
 
 ```json
 {
@@ -62,6 +62,10 @@ Capture the package when you login. The package is like:
   }
 }
 ```
+
+The last step is to copy the value of IMEICode(without quotation mark)
+
+然后就把IMEICode的值复制下来就好了(不要复制引号)
 
 ## Download Link / 下载链接
 
